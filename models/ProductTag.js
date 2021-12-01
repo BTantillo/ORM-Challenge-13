@@ -19,11 +19,12 @@ class ProductTag extends Model {}
           key: 'id'
         }
       },
-      tag_id: DataTypes.INTEGER,
+      tag_id: {type: DataTypes.INTEGER,
       references: {
         model: 'tag',
-        key: 'id'
+        key: 'id',
       }
+    }
     },
     
     
