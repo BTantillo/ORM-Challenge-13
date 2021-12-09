@@ -62,7 +62,7 @@ Product.create({
   tagIds: req.body.tagIds
 })
 .then((product) => {
-  if (req.body.tagIds.length) {
+  if (req.body.tagIds) {
     const productTagIdArr = req.body.tagIds.map((tag_id) => {
       return {
         product_id: product.id,
