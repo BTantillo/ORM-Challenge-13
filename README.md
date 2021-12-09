@@ -17,7 +17,8 @@
 
 *This link will bring you to the walkthrough video
 
-<iframe src="https://drive.google.com/file/d/1S0SBATyvPiUNhikmlGsceiGupN-gQg15/preview" width="640" height="480"></iframe>
+https://watch.screencastify.com/v/JFEsgNSf0BAixSQ7rJt6
+
 
 ## Contributions
 
