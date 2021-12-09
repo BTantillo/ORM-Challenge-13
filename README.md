@@ -2,7 +2,7 @@
 
 ## Purpose
 
-*To create a backend for a e-commerce website that utilizes  the latest technologies in order to stay competitive with it's competition.
+*To create a backend for an e-commerce website that utilizes  the latest technologies in order to stay competitive with it's competition.
 
 ## Built With
 
